@@ -1,0 +1,37 @@
+
+  .App {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+  }
