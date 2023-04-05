@@ -12,7 +12,7 @@ function App() {
           <li><a href="#"><i className="fas fa-shopping-cart"></i></a></li>
         </ul>
       </nav>
-      <h1>Bienvenido a mi aplicación</h1>
+      <h1>Bienvenido a Quimera</h1>
     </div>
   );
 }
